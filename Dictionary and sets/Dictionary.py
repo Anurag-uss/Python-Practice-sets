@@ -14,4 +14,3 @@ print(marks["Anurag"])
 # 2. it is mutable.     (value can be changed)
 # 3. it is indexed      (already indexed)
 # 4. Cannot contain dublicate keys.
-
